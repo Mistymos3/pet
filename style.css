@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #361c41;
+    line-height: 1.6;
+    margin: 0;
+    border:  black 5rem;
+    padding: 9;
+}
+
+nav{
+    background-color: rgb(34, 8, 31);
+    height: 4rem;
+}
+
+img{
+    margin: 2rem 0rem 0rem 2rem;
+    width: 50rem;
+    height: 50rem;
+    border-radius: 100%;
+    box-shadow: 120 120 120px 10px rgb(0, 0, 0, 0.2);
+}
+
+img:hover{
+    margin: 2rem 0rem 0rem 2rem;
+    width: 55rem;
+    height: 55rem;
+    border-radius: 100%;
+    box-shadow: 20 20 20px 10px rgb(0, 0, 0, 0.2);
+}
+
+h1{
+
+    outline: #fcfffc;
+    color: #220606;  
+}
+
+h2{
+    outline: #fcfffc;
+    color: #070101;  
+}
+
+#logo{
+    color: rgb(237, 163, 255);
+    padding: 1rem 2rem 2rem 2rem;
+    /* margin: 12rem,2rem,2rem,2rem; */
+}
+
+.image_container{
+    text-align: center;
+}
